@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Arial";
+  font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -11,7 +11,7 @@ header {
   align-items: center;
 }
 
-h1, h3 {
+h1, h2, h3, h4 {
     margin: 0;
 }
 
