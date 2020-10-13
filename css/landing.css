@@ -1,12 +1,13 @@
 header {
     justify-content: space-between;
 }
-#previous-button{
+
+#previous-button {
     height: 48px;
     width: 60px;
 }
 
-#exit-button{
+#exit-button {
     background-color: #fff;
     cursor: pointer;
     display: flex;
@@ -41,6 +42,7 @@ header {
     color: #607ae2;
     font-weight: 400;
 }
+
 .actions-selector {
     display: flex;
     justify-content: space-around;
@@ -84,7 +86,6 @@ header {
     margin-bottom: 10px;
     font-weight: 400;
     padding: 5px;
-
 }
 
 .action-container span {
